@@ -4,8 +4,8 @@ Estou cursando o bootcampo para Desenvolvedores Java FullStack Jr. na Generation
 desenvolvimento da tecnologia e me realocar no mercado de trabalho, desbranvando este novo Universo. :) 
 
 <br />
->##### :aluna: Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
-               Bootcamp Desenvolvedor Fullstack Jr - Generation Brasil
+Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
+Bootcamp Desenvolvedor Fullstack Jr - Generation Brasil
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinedasmerces/)](https://www.linkedin.com/in/adrianacirelli/)
 <!--
