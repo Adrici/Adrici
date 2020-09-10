@@ -1,8 +1,8 @@
-Olá, Mundo. 
+Olá, Mundo. <br/>
 Me chamo Adriana, tenho 28 anos, sou formada em Geografia e atualmente sou estudante de linguagem Java.
 Estou cursando o bootcampo para Desenvolvedores Java FullStack Jr. na Generation Brazil e espero contribuir com 
 desenvolvimento da tecnologia e me realocar no mercado de trabalho, desbranvando este novo Universo. 
-<br />
+<br/>
 🎓 Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
 <br/>
 👩‍🚀 Bootcamp Desenvolvedor Fullstack Jr - Generation Brasil
