@@ -1,7 +1,7 @@
 Olá, Mundo. 
 Me chamo Adriana, tenho 28 anos, sou formada em Geografia e atualmente sou estudante de linguagem Java.
 Estou cursando o bootcampo para Desenvolvedores Java FullStack Jr. na Generation Brazil e espero contribuir com 
-desenvolvimento da tecnologia e me realocar no mercado de trabalh, desbranvando este novo Universo. :) 
+desenvolvimento da tecnologia e me realocar no mercado de trabalho, desbranvando este novo Universo. :) 
  
 <!--
 **Adrici/Adrici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
