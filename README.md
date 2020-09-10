@@ -5,6 +5,7 @@ desenvolvimento da tecnologia e me realocar no mercado de trabalho, desbranvando
 
 <br />
 Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
+<br/>
 Bootcamp Desenvolvedor Fullstack Jr - Generation Brasil
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinedasmerces/)](https://www.linkedin.com/in/adrianacirelli/)
