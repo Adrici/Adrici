@@ -1,12 +1,11 @@
 Olá, Mundo. 
 Me chamo Adriana, tenho 28 anos, sou formada em Geografia e atualmente sou estudante de linguagem Java.
 Estou cursando o bootcampo para Desenvolvedores Java FullStack Jr. na Generation Brazil e espero contribuir com 
-desenvolvimento da tecnologia e me realocar no mercado de trabalho, desbranvando este novo Universo. :) 
-
+desenvolvimento da tecnologia e me realocar no mercado de trabalho, desbranvando este novo Universo. 👩‍🚀 
 <br />
-Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
+🎓Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
 <br/>
-Bootcamp Desenvolvedor Fullstack Jr - Generation Brasil
+🎓Bootcamp Desenvolvedor Fullstack Jr - Generation Brasil
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinedasmerces/)](https://www.linkedin.com/in/adrianacirelli/)
 <!--
