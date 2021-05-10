@@ -1,6 +1,8 @@
 Olá, Mundo. <br/>
 Me chamo Adriana e sou apaixonada por tecnologia.
-<br/>Gosto de de exercitar minha criatividade com assuntos relacionados a 'inovações tecnológicas'. Por isso, acredito que autenticidade no pensamento é fundamental para mudar o mundo!
+<br/>Gosto de de exercitar minha criatividade com assuntos relacionados a 'inovações tecnológicas'. 
+<br/>Além disso, aredito que autenticidade no pensamento é fundamental para mudar o mundo!
+<br/>Então, bora programa um mundo novo, cheio de coisas boas ?
 <br/>
 🎓 Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
 <br/>
