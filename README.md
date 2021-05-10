@@ -1,6 +1,6 @@
 Olá, Mundo. <br/>
-Me chamo Adriana, tenho 29 anos e adoro aprender coisas novas. Em  2020, decidi pela minha transição de carreira e, neste momento, estou começando a construir minha jornada como Desenvolvedora Júnior. Iniciei minha trajetória na tecnologia através de iniciativas para inserir mulheres no mercado da tecnologia da informação e hoje busco o aprendizado constante, com o objetivo de crescer dentro do mundo da programação. <br>
-Sou apaixonada por tecnologia e gosto de de exercitar minha criatividade com assuntos relacionados a 'inovações tecnológicas'. Por isso, acredito que autenticidade no pensamento é fundamental para mudar o mundo!
+Me chamo Adriana e sou apaixonada por tecnologia.
+<br/>Gosto de de exercitar minha criatividade com assuntos relacionados a 'inovações tecnológicas'. Por isso, acredito que autenticidade no pensamento é fundamental para mudar o mundo!
 <br/>
 🎓 Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
 <br/>
