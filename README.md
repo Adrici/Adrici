@@ -1,6 +1,5 @@
 Olá, Mundo. <br/>
-Me chamo Adriana e sou apaixonada por tecnologia.
-<br/>Gosto de de exercitar minha criatividade com assuntos relacionados a 'inovações tecnológicas'. 
+<br/>Sou a Adri e gosto exercitar minha criatividade com assuntos relacionados a 'inovações tecnológicas'. 
 <br/>Além disso, aredito que autenticidade no pensamento é fundamental para mudar o mundo!
 <br/>Então, bora programar um mundo novo, cheio de coisas boas ?
 <br/>
