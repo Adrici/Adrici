@@ -6,6 +6,7 @@ Olá, Mundo. <br/>
 🎓 Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
 <br/>
 👩‍🚀 Bootcamp Desenvolvedor(a) Fullstack Jr. - Generation Brasil
+🚀 Bootcamp Orange Talents - Zup Innovation
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinedasmerces/)](https://www.linkedin.com/in/adrianacirelli/)
 <!--
