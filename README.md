@@ -1,8 +1,6 @@
 # Olá,Mundo! Eu sou a Adri!
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianacirelli/)](https://www.linkedin.com/in/adrianacirelli/)
-
-Bora programar um mundo novo, cheio de coisas boas ?
+🌱 Bora aprender a programar um mundo novo, cheio de coisas boas ?
 
 ### Sobre mim
 <br/>
@@ -12,7 +10,9 @@ Bora programar um mundo novo, cheio de coisas boas ?
 <br/>
 🚀 Bootcamp Orange Talents - Zup Innovation
 <br/>
-🔭 Atualmente Desenvolvedora Júnior na Zup Innovation
+🔭 Atualmente Desenvolvedora Back-end Júnior na Zup Innovation
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianacirelli/)](https://www.linkedin.com/in/adrianacirelli/)
 
 
 <!--
