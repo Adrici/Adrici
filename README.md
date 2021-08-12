@@ -1,7 +1,7 @@
 # Olá,Mundo! Eu sou a Adri!
-<br/>
+
 Bora programar um mundo novo, cheio de coisas boas ?
-<br/>
+
 ### Sobre mim
 <br/>
 🎓 Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
