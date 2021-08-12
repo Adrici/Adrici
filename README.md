@@ -1,5 +1,6 @@
-Olá, Mundo. <br/>
-<br/Bora programar um mundo novo, cheio de coisas boas ?
+Olá, Mundo.
+<br/>
+Bora programar um mundo novo, cheio de coisas boas ?
 <br/>
 🎓 Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
 <br/>
