@@ -10,7 +10,7 @@ Bora programar um mundo novo, cheio de coisas boas ?
 <br/>
 🔭 Atualmente Desenvolvedora Júnior na Zup Innovation
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinedasmerces/)](https://www.linkedin.com/in/adrianacirelli/)
+[![Linkedin Badge](https://www.linkedin.com/in/adrianacirelli/)
 <!--
 **Adrici/Adrici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
