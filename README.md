@@ -2,14 +2,14 @@
 <br/>
 Bora programar um mundo novo, cheio de coisas boas ?
 <br/>
-# Sobre mim
--  🎓 Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
+### Sobre mim
+🎓 Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
 <br/>
-- 👩‍🚀 Bootcamp Desenvolvedor(a) Fullstack Jr. - Generation Brasil
+👩‍🚀 Bootcamp Desenvolvedor(a) Fullstack Jr. - Generation Brasil
 <br/>
--  🚀 Bootcamp Orange Talents - Zup Innovation
+🚀 Bootcamp Orange Talents - Zup Innovation
 <br/>
-- 🔭 Atualmente Desenvolvedora Júnior na Zup Innovation
+🔭 Atualmente Desenvolvedora Júnior na Zup Innovation
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianacirelli/)](https://www.linkedin.com/in/adrianacirelli/)
 
 <!--
