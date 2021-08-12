@@ -10,7 +10,6 @@ Bora programar um mundo novo, cheio de coisas boas ?
 <br/>
 🔭 Atualmente Desenvolvedora Júnior na Zup Innovation
 
-[![Linkedin Badge]](https://www.linkedin.com/in/adrianacirelli/)
 <!--
 **Adrici/Adrici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
