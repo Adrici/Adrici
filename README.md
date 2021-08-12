@@ -1,4 +1,4 @@
-# Olá,Mundo! Eu sou a Adri!
+# Olá, Mundo! Eu sou a Adri!
 
 🌱 Bora aprender a programar um mundo novo, cheio de coisas boas ?
 
