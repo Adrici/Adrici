@@ -1,13 +1,12 @@
 Olá, Mundo. <br/>
-<br/>Sou a Adri e gosto exercitar minha criatividade com assuntos relacionados a 'inovações tecnológicas'. 
-<br/>Além disso, aredito que autenticidade no pensamento é fundamental para mudar o mundo!
-<br/>Então, bora programar um mundo novo, cheio de coisas boas ?
+<br/Bora programar um mundo novo, cheio de coisas boas ?
 <br/>
 🎓 Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
 <br/>
 👩‍🚀 Bootcamp Desenvolvedor(a) Fullstack Jr. - Generation Brasil
 <br/>
 🚀 Bootcamp Orange Talents - Zup Innovation
+<br/>
 🔭 Atualmente Desenvolvedora Júnior na Zup Innovation
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carolinedasmerces/)](https://www.linkedin.com/in/adrianacirelli/)
