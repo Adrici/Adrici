@@ -1,5 +1,7 @@
 # Olá,Mundo! Eu sou a Adri!
 
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianacirelli/)](https://www.linkedin.com/in/adrianacirelli/)
+
 Bora programar um mundo novo, cheio de coisas boas ?
 
 ### Sobre mim
@@ -11,8 +13,7 @@ Bora programar um mundo novo, cheio de coisas boas ?
 🚀 Bootcamp Orange Talents - Zup Innovation
 <br/>
 🔭 Atualmente Desenvolvedora Júnior na Zup Innovation
-<br/>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianacirelli/)](https://www.linkedin.com/in/adrianacirelli/)
+
 
 <!--
 **Adrici/Adrici** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
