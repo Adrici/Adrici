@@ -5,9 +5,7 @@
 ### Sobre mim
 🎓 Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
 <br/>
-👩‍🚀 Bootcamp Desenvolvedor(a) Fullstack Jr. - Generation Brasil
-<br/>
-🔭 Atualmente Desenvolvedora Back-end Júnior na Zup Innovation <br/>
+👩‍🚀 Atualmente Desenvolvedora Back-end Júnior na Zup Innovation <br/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianacirelli/)](https://www.linkedin.com/in/adrianacirelli/)
 
