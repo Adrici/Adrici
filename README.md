@@ -3,9 +3,9 @@
 🌱 Bora aprender a programar um mundo novo, cheio de coisas boas ?
 
 ### Sobre mim
-🎓 Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
+🎓👩‍🚀  Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 
 <br/>
-👩‍🚀 Atualmente Desenvolvedora Back-end Júnior na Zup Innovation <br/>
+
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianacirelli/)](https://www.linkedin.com/in/adrianacirelli/)
 
