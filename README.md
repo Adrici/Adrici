@@ -4,7 +4,7 @@
 
 ### Sobre mim
 🎓Bacharela e Licenciada em Geografia pela Universidade de São Paulo - USP 👩‍🚀<br/>
-🔭Data Developer • Data Engineer | CI&T 
+🔭Data Developer • Data Engineer | CI&T <br/>
 ⚡ETL • SQL • SQL Server • Oracle • SSIS • Python • Java • Hive • Hadoop • Apache Spark
 <br/>
 
