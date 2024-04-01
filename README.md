@@ -9,7 +9,9 @@
 <br/>
 
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianacirelli/)](https://www.linkedin.com/in/adrianacirelli/)  [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cirellia5@gmail.com)](mailto:cirellia5@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/adrianacirelli/)](https://www.linkedin.com/in/adrianacirelli/)  <br/>
+
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cirellia5@gmail.com)](mailto:cirellia5@gmail.com)
 
 
 
